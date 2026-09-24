@@ -8,7 +8,7 @@
     "license": "BSL-1.0",
     
     "dependencies": {
-        "rtld": "~>0.4.0"
+        "rtld": "~main"
     },
     
     "importPaths": [

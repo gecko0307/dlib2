@@ -33,7 +33,7 @@ DEALINGS IN THE SOFTWARE.
  * License: $(LINK2 https://boost.org/LICENSE_1_0.txt, Boost License 1.0).
  * Authors: Timur Gafarov
  */
-module dlib;
+module dlib2;
 
 public
 {
