@@ -97,7 +97,7 @@ public
     //import dlib.geometry;
     import dlib.hash;
     //import dlib.image;
-    //import dlib.math;
+    import dlib.math;
     import dlib.memory;
     //import dlib.network;
     import dlib.random;
