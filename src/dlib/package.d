@@ -92,7 +92,7 @@ public
     //import dlib.coding;
     //import dlib.concurrency;
     //import dlib.container;
-    //import dlib.core;
+    import dlib.core;
     //import dlib.filesystem;
     //import dlib.geometry;
     //import dlib.hash;
@@ -102,5 +102,5 @@ public
     //import dlib.network;
     //import dlib.random;
     //import dlib.serialization;
-    //import dlib.text;
+    import dlib.text;
 }
