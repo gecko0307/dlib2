@@ -24,10 +24,11 @@
     ],
     
     "configurations": [
-    {
-        "name": "default",
-        "targetType": "library"
-    },
+        {
+            "name": "default",
+            "targetType": "library"
+        }
+    ],
     
     "-ddoxTool": "scod"
 }
