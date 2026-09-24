@@ -10,6 +10,9 @@
     "dependencies": {
         "rtld": "~main"
     },
+    "subConfigurations": {
+        "rtld": "default"
+    },
     
     "importPaths": [
         "src"

@@ -103,4 +103,5 @@ public
     import dlib.random;
     //import dlib.serialization;
     import dlib.text;
+    import dlib.time;
 }
