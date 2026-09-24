@@ -98,7 +98,7 @@ public
     //import dlib.hash;
     //import dlib.image;
     //import dlib.math;
-    //import dlib.memory;
+    import dlib.memory;
     //import dlib.network;
     //import dlib.random;
     //import dlib.serialization;
