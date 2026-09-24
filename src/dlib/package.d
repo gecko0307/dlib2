@@ -100,7 +100,7 @@ public
     //import dlib.math;
     import dlib.memory;
     //import dlib.network;
-    //import dlib.random;
+    import dlib.random;
     //import dlib.serialization;
     import dlib.text;
 }
