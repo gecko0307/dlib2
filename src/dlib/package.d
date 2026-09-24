@@ -95,7 +95,7 @@ public
     import dlib.core;
     //import dlib.filesystem;
     //import dlib.geometry;
-    //import dlib.hash;
+    import dlib.hash;
     //import dlib.image;
     //import dlib.math;
     import dlib.memory;
