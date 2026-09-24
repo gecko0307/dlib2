@@ -1,0 +1,33 @@
+{
+    "name": "dlib2",
+    "description": "General purpose library for D",
+    "authors": [
+        "Timur Gafarov"
+    ],
+    "copyright": "Copyright © 2026, Timur Gafarov",
+    "license": "BSL-1.0",
+    
+    "dependencies": {
+        "rtld": "~>0.4.0"
+    },
+    
+    "importPaths": [
+        "src"
+    ],
+    
+    "sourcePaths": [
+        "src"
+    ],
+    
+    "buildRequirements":[
+        "allowWarnings"
+    ],
+    
+    "configurations": [
+    {
+        "name": "default",
+        "targetType": "library"
+    },
+    
+    "-ddoxTool": "scod"
+}
