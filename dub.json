@@ -8,7 +8,7 @@
     "license": "BSL-1.0",
     
     "dependencies": {
-        "rtld": "~main"
+        "rtld": "~>0.7.0"
     },
     "subConfigurations": {
         "rtld": "default"

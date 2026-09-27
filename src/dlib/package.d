@@ -101,7 +101,7 @@ public
     import dlib.memory;
     //import dlib.network;
     import dlib.random;
-    //import dlib.serialization;
+    import dlib.serialization;
     import dlib.text;
     import dlib.time;
 }
