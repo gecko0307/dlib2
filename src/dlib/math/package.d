@@ -58,6 +58,6 @@ public
     //import dlib.math.quaternion;
     //import dlib.math.tensor;
     //import dlib.math.transformation;
-    //import dlib.math.utils;
+    import dlib.math.utils;
     //import dlib.math.vector;
 }

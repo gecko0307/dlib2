@@ -50,7 +50,7 @@ public
     //import dlib.container.linkedlist;
     //import dlib.container.mappedlist;
     //import dlib.container.queue;
-    //import dlib.container.sorting;
+    import dlib.container.sorting;
     //import dlib.container.stack;
     //import dlib.container.spscqueue;
 }
